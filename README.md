@@ -1,5 +1,7 @@
 # DevOps-Project-kubernetes-tomcat-session-replication
 
+![image](https://github.com/user-attachments/assets/f372b9b9-e0e0-4e98-ac72-3c7601e0095c)
+
 This project explains tomcat based session replication in Kubernetes. To achieve this I have used redission based session replication. 
 ```
 I have added below section in context.xml as shown in the screeshot below.
