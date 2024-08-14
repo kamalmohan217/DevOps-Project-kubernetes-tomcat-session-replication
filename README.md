@@ -28,6 +28,9 @@ COPY ./pasco/redisson.yaml /usr/local/tomcat/
 
 COPY target/ROOT.war /usr/local/tomcat/webapps
 ```
+For Jenkins you should install the plugins 1. SonarQube Scanner 2. Nexus Artifact Uploader and 3. Pipeline Utility Steps as shown in the screenshot below.
+
+![image](https://github.com/user-attachments/assets/d8869bd8-ec81-407a-967e-ee8cc29d6443)
 
 
 <br><br/>
