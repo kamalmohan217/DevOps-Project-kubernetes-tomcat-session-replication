@@ -32,6 +32,28 @@ For Jenkins you should install the plugins 1. SonarQube Scanner 2. Nexus Artifac
 
 ![image](https://github.com/user-attachments/assets/d8869bd8-ec81-407a-967e-ee8cc29d6443)
 
+After adding the Jenkins Slave node the screenshot is as shown below.
+![image](https://github.com/user-attachments/assets/5fc46e75-94e8-4bcf-bf14-6d42b602b0f6)
+
+commands to add swap space of 512 MB is given below
+```
+fallocate -l 512M /swapfile
+chmod 600 /swapfile
+sudo mkswap /swapfile
+cat /etc/fstab
+
+/swapfile swap swap defaults 0 0
+
+
+swapon /swapfile
+free -mh
+
+```
+![image](https://github.com/user-attachments/assets/27933e3f-1631-469d-a08a-01803965efa2)
+
+The screenshot of Jenkins Job is as shown below.
+![image](https://github.com/user-attachments/assets/66c05fe7-5087-4725-a6ae-cf9edd2bed1d)
+
 
 <br><br/>
 <br><br/>
