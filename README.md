@@ -36,7 +36,7 @@ COPY target/ROOT.war /usr/local/tomcat/webapps
 <br><br/>
 <br><br/>
 ```
-Source Code:-  https://github.com/singhritesh85/kubernetes-tomcat-session-replication.git
+Source Code:-  https://github.com/kamalmohan217/kubernetes-tomcat-session-replication.git
 ```
 <br><br/>
 <br><br/>
