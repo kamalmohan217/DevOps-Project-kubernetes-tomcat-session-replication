@@ -28,3 +28,22 @@ COPY ./pasco/redisson.yaml /usr/local/tomcat/
 
 COPY target/ROOT.war /usr/local/tomcat/webapps
 ```
+
+
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Source Code:-  https://github.com/singhritesh85/kubernetes-tomcat-session-replication.git
+```
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Reference:-  https://github.com/AndriyKalashnykov/tomcat-root-war.git
+             https://redisson.org/articles/redis-based-tomcat-session-management.html
+```
