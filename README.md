@@ -79,7 +79,7 @@ Source Code:-  https://github.com/kamalmohan217/kubernetes-tomcat-session-replic
 <br><br/>
 <br><br/>
 ```
-Reference:-  https://github.com/AndriyKalashnykov/tomcat-root-war.git
+References:-  https://github.com/AndriyKalashnykov/tomcat-root-war.git
              https://redisson.org/articles/redis-based-tomcat-session-management.html
              https://github.com/mahendra-shinde/tomcat7-redisson-session.git
              https://github.com/bitnami/charts.git
