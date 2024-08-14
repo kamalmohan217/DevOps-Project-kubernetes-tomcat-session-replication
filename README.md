@@ -54,6 +54,11 @@ free -mh
 The screenshot of Jenkins Job is as shown below.
 ![image](https://github.com/user-attachments/assets/66c05fe7-5087-4725-a6ae-cf9edd2bed1d)
 
+The screenshots of SonarQube, Nexus Artifactory and ArgoCD after successfully running the Jenkins Job is as shown in the screenshot below.
+![image](https://github.com/user-attachments/assets/f773cb18-2145-4a1b-9298-46cf2fc36ca8)
+![image](https://github.com/user-attachments/assets/7a657ead-d794-46a4-8717-8a18aa540fcc)
+![image](https://github.com/user-attachments/assets/17f68ecd-eedc-4f56-bd7e-97f415cc444e)
+
 
 <br><br/>
 <br><br/>
